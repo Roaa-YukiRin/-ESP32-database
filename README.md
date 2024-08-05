@@ -1,5 +1,5 @@
 # -ESP32-database
-# website (speech to text)
+# -website (speech to text)
 1) Use http request in ESP32 code to get the data from database
 2)Build a user interface to convert voice to text (speech to text)
 3) Save the text output to database
@@ -19,4 +19,7 @@ https://s-m.com.sa/f.html
 
 ![image](https://github.com/user-attachments/assets/beb05e8f-dfed-47ca-8a44-f410f296b208)
 ==================================================================================================
+# -website (speech to text)
 
+2)Build a user interface to convert voice to text (speech to text)
+3) Save the text output to database
